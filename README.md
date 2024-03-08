@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Computational Chemist and PhD Candidate at  Humboldt-Universität zu Berlin.
+🔭 I am a Computational Chemist and a PhD Candidate at Humboldt-Universität zu Berlin.
 
 
 # 💻 Tech Stack:
