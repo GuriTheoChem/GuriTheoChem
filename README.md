@@ -24,7 +24,7 @@
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![mkdocs](https://img.shields.io/badge/Material%20for%20MkDocs-526CFE.svg?style=for-the-badge&logo=Material-for-MkDocs&logoColor=white)
+<!-- ![mkdocs](https://img.shields.io/badge/Material%20for%20MkDocs-526CFE.svg?style=for-the-badge&logo=Material-for-MkDocs&logoColor=white) -->
 
 ## 📊 GitHub Stats
 
