@@ -2,6 +2,10 @@
 
 ⚛️ I am a Computational Chemist and a PhD Candidate at Humboldt-Universität zu Berlin.
 
+Find me on [GitLab](https://gitlab.com/guri_theo_chem).
+
+<!-- [![Gitlab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/guri_theo_chem) -->
+
 ## 💻 Tech Stack
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
