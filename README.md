@@ -28,15 +28,15 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=GuriTheoChem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=GuriTheoChem&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
-![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=GuriTheoChem&theme=dark&hide_border=false)
+![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=GuriTheoChem&theme=dracula&hide_border=false)
 
-![languages-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuriTheoChem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![languages-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuriTheoChem&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![trophies](https://github-profile-trophy.vercel.app/?username=GuriTheoChem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![trophies](https://github-profile-trophy.vercel.app/?username=GuriTheoChem&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- ### 🔝 Top Contributed Repo
 
