@@ -45,11 +45,11 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=GuriTheoChem&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=GuriTheoChem&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) -->
 
 ![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=GuriTheoChem&theme=dracula&hide_border=false)
 
-![languages-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuriTheoChem&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![languages-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuriTheoChem&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ## 🏆 GitHub Trophies
 
