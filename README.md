@@ -51,7 +51,7 @@ Check out my website at [guritheochem.github.io](https://guritheochem.github.io/
 
 ![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=GuriTheoChem&theme=dracula&hide_border=false)
 
-![languages-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuriTheoChem&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![languages-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuriTheoChem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 ## 🏆 GitHub Trophies
 
