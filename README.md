@@ -2,7 +2,7 @@
 
 ⚛️ I am a Computational Chemist and a PhD Candidate at Humboldt-Universität zu Berlin.
 
-[guritheochem.github.io](https://guritheochem.github.io/)
+Check out my website at [guritheochem.github.io](https://guritheochem.github.io/) for more information.
 
 ## 🔗 Profile Links
 
